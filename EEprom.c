@@ -2,6 +2,6 @@ void EEprom()
 {
 
 
-printf("EEprom v2");
+printf("EEprom v3");
 
 }
