@@ -3,6 +3,6 @@ void lcd()
 
 printf("Main lcd new fetch");
 printf("welcome to dhyari");
-printf("welcome to jijau sankul");
+printf("welcome to jijau sankul 104 B");
 printf("kalbhairavnath mandie");
 }
