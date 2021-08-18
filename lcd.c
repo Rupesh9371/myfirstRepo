@@ -1,6 +1,6 @@
 void lcd()
 {
 
-printf("Main lcd new");
+printf("Main lcd new fetch");
 
 }
