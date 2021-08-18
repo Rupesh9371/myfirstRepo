@@ -1,6 +1,6 @@
-void main()
+void lcd()
 {
 
-printf("Main v2");
+printf("Main lcd");
 
 }
